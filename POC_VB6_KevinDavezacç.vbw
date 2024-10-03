@@ -1,0 +1,6 @@
+Form1 = 0, 0, 0, 0, C, 26, 28, 577, 460, C
+frmHome = 78, 78, 645, 512, Z, 52, 52, 603, 486, C
+frmMantenedorProducto = -339, 77, 658, 450, , 0, 0, 567, 434, C
+frmExportProgMes = 78, 78, 645, 512, C, 0, 0, 567, 434, C
+frmCosultaProducto = 130, 130, 649, 564, , 26, 26, 545, 460, C
+frmRepoProgMes = 0, 0, 0, 0, C, 182, 182, 701, 616, C
